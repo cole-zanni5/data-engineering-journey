@@ -1,0 +1,1 @@
+SELECT 'My first SQL file' AS status;
